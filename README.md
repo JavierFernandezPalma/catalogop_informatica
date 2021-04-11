@@ -6,7 +6,7 @@ El programa que se encuentra en este repositorio muestra el catalogo de personaj
 ![image](https://user-images.githubusercontent.com/46091084/114323345-5a1ff280-9aea-11eb-9889-43f699b5ed67.png)
 
 
-Patrones utilizados:
+Patrones utilizados en el catalogo de personajes:
 °Abstract Factory
 °Singleton
 
