@@ -1,3 +1,9 @@
+# catalogop_informatica
+Catálogo de personajes
+
+El programa que se encuentra en este repositorio muestra el catalogo de personajes en un entorno web desarrollado en python, donde cada una de las partes de los personajes son creadas con el patron Abstract Factory y el patron Decorator.
+
+
 # ************************************
 # Integrantes 
 
@@ -16,17 +22,11 @@ Código: 20211099026
 
 # Patrones de programación orientada a objetos que aplican al proyecto de catalogo de personajes:
 
-Patron que aplica el diseño actual: Abstract Factory
+### Patrones de creación
+- **Abstract Factory:** Proporciona una interfaz para crear familias de objetos o que dependen entre sí, sin especificar sus clases concretas.
 
-![Abstract_factory-Decorator](https://user-images.githubusercontent.com/46091084/115177664-4c8fdd00-a095-11eb-85df-c15a98b483c6.jpeg)
+### Patrones estructurales
+- **Decorator:** Añade dinámicamente nuevas responsabilidades a un objeto, proporcionando una alternativa flexible a la herencia para extender la funcionalidad.
 
-Se puede realizar la extensión de las funcionalidades mediante los patrones: Decorator y Brigde
-
-principios identificados:
-principios identificados:
-
-# ************************************
-# Librerias necesarias
-
-pip install pyquery
-pip install requests
+# MODELO DE CLASES DE LOS PATRONES APLICADOS
+![Abstract_factory-Decorator](https://user-images.githubusercontent.com/46091084/115178142-49e1b780-a096-11eb-9d7e-b50cb8d5831f.jpeg)
